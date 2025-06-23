@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulved
-- 👀 I’m interested in kdb/q, solidity/crypto, python, nodejs (out of necessity)
+- 👀 I’m interested in kdb/q and python
 - 📫 How to reach me https://www.linkedin.com/in/rahul-ved-a9949b47/
 
 <!---
